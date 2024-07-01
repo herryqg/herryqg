@@ -2,11 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++              58 mins         ██████████████▓░░░░░░░░░░   58.41 %
-CMake            33 mins         ████████▒░░░░░░░░░░░░░░░░   33.25 %
-JSON             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-V shell          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
