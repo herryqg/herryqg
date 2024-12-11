@@ -2,8 +2,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OCaml    1 hr 8 mins     █████████████░░░░░░░░░░░░   52.29 %
-Python   1 hr 2 mins     ████████████░░░░░░░░░░░░░   47.71 %
+Python   1 hr 2 mins     ████████████▓░░░░░░░░░░░░   50.40 %
+OCaml    1 hr 1 min      ████████████▒░░░░░░░░░░░░   49.60 %
 ```
 
 <!--END_SECTION:waka-->
