@@ -2,9 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   32 mins         ███████████▓░░░░░░░░░░░░░   46.59 %
-C#       24 mins         █████████░░░░░░░░░░░░░░░░   36.15 %
-Other    11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
